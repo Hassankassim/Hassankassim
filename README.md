@@ -51,87 +51,50 @@ I'm an Explorer 🙂...
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/>
   </a>
   &nbsp;
-  <a href="https://www.cplusplus.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="c++" width="55" height="55"/>
-  </a>
-  &nbsp;
-  <a href="https://www.java.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="55" height="55"/>
-  </a>
-  &nbsp;
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="55" height="55"/>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>
   </a>
 </p>
 
 ## Frameworks & Tools
 
 <p align="center">
-  <a href="https://huggingface.co/" target="_blank">
-    <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="hugging face" width="40" height="40"/>
-  </a>
- &nbsp;
-  <a href="https://visualstudio.microsoft.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/visual-studio.png" alt="Microsoft Visual Studio"/>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   </a>
   &nbsp;
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code"/>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
   &nbsp;
-   <a href="https://www.tensorflow.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/tensorflow.png" alt="tensorflow"/>
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
   &nbsp;
-   <a href="https://opencv.org/" target="_blank">
-<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="mpl" alt="mpl" width="40" height="40"/>
-   </a>
-  &nbsp;
-  <a href="https://azure.microsoft.com/en-us/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/azure-1.png" alt="azure"/>
+  <a href="https://www.w3.org/html/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
   </a>
   &nbsp;
-  <a href="https://aws.amazon.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="aws"/>
-  </a>
-  &nbsp;
-  <a href="https://console.cloud.google.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/google-cloud.png" alt="google cloud"/>
-  </a>
-  &nbsp;
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png" alt="mysql"/>
-  </a>
-  &nbsp;
-  <a href="https://www.linux.org/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/linux.png" alt="linux"/>
-  </a>
-  &nbsp;
-  <a href="https://www.arduino.cc/" target="_blank">
-    <img src="https://img.icons8.com/color/48/fff/arduino.png" alt="arduino"/>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
   &nbsp;
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.icons8.com/color/48/fff/git.png" alt="git"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
   &nbsp;
-    <a href="https://ultralytics.com/yolov5" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/000000/artificial-intelligence.png" alt="yolo"/>
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
   </a>
   &nbsp;
-    <a href="https://pytorch.org/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/pytorch.svg" alt="pytorch" width="40" height="40"/>
-  </a>
-  <a href="https://www.shellscript.sh/" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/console.png" alt="shell script"/>
+  <a href="https://www.microsoft.com/en-us/windows" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" alt="windows" width="40" height="40"/>
   </a>
   &nbsp;
-  <a href="https://www.qt.io/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/>
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
   </a>
 </p>
-
-
 
 ## My Github Stats
 
