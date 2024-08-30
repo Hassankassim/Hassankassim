@@ -3,40 +3,40 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/benjamin-maziku-mashimba-553b06247/">
+  <a href="www.linkedin.com/in/hassan-kassim-44060b231">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-<a href="https://www.instagram.com/_b.e.nn.y_/" target="_blank">
+<a href="https://www.instagram.com/techmaster_tz/?hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
-<a href="https://x.com/maziku_ben">
+<a href="https://x.com/Sani_AO4">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </a>
 
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=benny-png&style=plastic" alt="Profile Views"/>
-<img src="https://img.shields.io/github/followers/benny-png?style=social&label=Followers&cacheSeconds=0" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=hassankassim&style=plastic" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/hassankassim?style=social&label=Followers&cacheSeconds=0" alt="GitHub Followers"/>
 
 </div>
 
 # Hi there 👋
 
-My name is Benjamin 🎉 and I am a Computer Engineer 👨‍💻 by education, Software Developer and scientist by passion 🙂.
+My name is Hassan 🎉 and I am a Computer Engineer 👨‍💻 by education, Software Developer and scientist by passion 🙂.
 
 I got into tech and science from an anime scene, where a computer engineer was coding and repairing a time machine ⏳ in C and doing some robotics 🤖 back in 2018.
 
 
 Looking forward to entering the Startup Space.
 
-![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=benny-png&theme=tokyo-night&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=hassankassim&theme=tokyo-night&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo)
 
 
-- 🔭 I’m currently working on integrating Python into robotics
-- 🌱 I’m currently learning Q#, Qiskit, assembly, firmwares, blender & Java.
-- 👯 I’m looking to collaborate on research & ML projects using C and python 🐉
-- 🤔 I’m looking for help with firmware & assembly programming
+- 🔭 I'm currently working on integrating Python into robotics
+- 🌱 I'm currently learning Q#, Qiskit, assembly, firmwares, blender & Java.
+- 👯 I'm looking to collaborate on research & ML projects using C and python 🐉
+- 🤔 I'm looking for help with firmware & assembly programming
 - 💬 Ask me about technology and scientists
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I commit with spaces... and got rejected by all the Ivies
@@ -136,15 +136,15 @@ I'm an Explorer 🙂...
 ## My Github Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=benny-png&theme=radical" alt="GitHub Streak"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=benny-png&show_icons=true&theme=radical" alt="Benjamin's GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=benny-png&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassankassim&theme=radical" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=hassankassim&show_icons=true&theme=radical" alt="Hassan's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassankassim&layout=compact&theme=radical&hide=html,css" alt="Top Languages"/>
 </p>
 
 ## ME AT UDSM 3D ROBOTICS COMMUNITY
 
 <p align="center">
-  <img src="https://github.com/benny-png/benny-png/blob/main/WhatsApp%20Image%202024-06-25%20at%2011.05.07%20PM.jpeg" alt="ME AT UDSM ROBOTICS COMMUNITY">
+  <img src="https://github.com/hassankassim/hassankassim/blob/main/WhatsApp%20Image%202024-06-25%20at%2011.05.07%20PM.jpeg" alt="ME AT UDSM ROBOTICS COMMUNITY">
 </p>
 
 ## Connect with me
@@ -153,13 +153,13 @@ I'm an Explorer 🙂...
   <a href="https://api.whatsapp.com/send/?phone=255627156369&text&app_absent=0" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/whatsapp.png" alt="WhatsApp"/>
   </a>
-  <a href="https://www.linkedin.com/in/benjamin-maziku-mashimba-553b06247/" target="_blank">
+  <a href="www.linkedin.com/in/hassan-kassim-44060b231" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="https://x.com/maziku_ben" target="_blank">
+  <a href="https://x.com/Sani_AO4" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/twitter.png" alt="Twitter"/>
   </a>
-  <a href="https://instagram.com/_b.e.nn.y_/" target="_blank">
+  <a href="https://www.instagram.com/techmaster_tz/?hl=en" target="_blank">
     <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
   </a>
   <a href="https://www.facebook.com/" target="_blank">
@@ -173,5 +173,3 @@ I'm an Explorer 🙂...
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
-
